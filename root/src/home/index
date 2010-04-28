@@ -1,0 +1,1 @@
+Logged in as [% c.user.first_name %] [% c.user.last_name %]

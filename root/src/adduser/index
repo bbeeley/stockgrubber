@@ -1,0 +1,2 @@
+<h2>Add User Page</h2>
+[% form.render %]
